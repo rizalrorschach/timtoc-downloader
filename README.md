@@ -1,4 +1,5 @@
 Change .env.local to .env
+
 Fill with your rapidapi key and telegram bot token
 
 
