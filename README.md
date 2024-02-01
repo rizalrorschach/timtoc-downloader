@@ -1,6 +1,6 @@
 # TikTok Video Downloader Bot
 
-This is a Telegram bot that allows users to download videos from TikTok without a watermark.
+This is a Telegram bot that allows users to download videos from TikTok without a watermark and get the video caption.
 
 ## Installation
 
