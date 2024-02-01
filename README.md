@@ -20,5 +20,7 @@ Start the bot by running node index.js. You can then interact with the bot in Te
 To download a video, send a message to the bot in the following format:
 
 /tiktok [tiktok_url]
+
 or
+
 /tiktokhd [tiktok_url] for HD quality
